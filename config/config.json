@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "naufalrdj",
+    "password": null,
+    "database": "testdb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "naufalrdj",
+    "password": null,
+    "database": "testdb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "naufalrdj",
+    "password": null,
+    "database": "testdb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
